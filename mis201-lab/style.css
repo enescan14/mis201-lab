@@ -1,0 +1,40 @@
+h1 {
+    font-size: 22px;
+    text-align: left;
+    color: navy;
+    font-family: 'Segoe UI';
+}
+
+h2 {
+    font-size: 18px;
+    color:gray;
+}
+
+.navigator {
+    background-color: skyblue;
+    color: white;
+}
+
+.p {
+    font-size: 14px;
+    font-family: 'Segoe UI';
+}
+
+#age {
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+}
+
+caption {
+    width: 500px;
+    padding: 15px 30px;
+    border:5px solid green;
+    border-radius: 10px;
+    margin: 15px 30px;
+}
+
+#message {
+    background-color: gray;
+}
